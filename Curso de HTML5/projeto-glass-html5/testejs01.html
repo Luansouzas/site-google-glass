@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <meta charset="utf-8"/>
+
+    <script>
+        // Jeito Tradicional
+
+        /*function acende() {
+            document.getElementById("luz").src="_imagens/lampada-acesa.jpg";
+        }
+        function apaga() {
+            document.getElementById("luz").src="_imagens/lampada-apagada.jpg";
+        }
+        function quebra() {
+            document.getElementById("luz").src="_imagens/lampada-quebrada.jpg";
+        }
+        function conserta() {
+            document.getElementById("luz").src="_imagens/lampada-apagada.jpg";
+        }*/
+
+        // Jeito Simplificado
+        var quebrada = false; // Para não voltar ao estado de apagada, cria uma variável declarando FALSE, assim, quando for quebrada , ficara                              no estado encontrada e, não voltará ao estado de apagada
+        function muda(tipo){
+            if (tipo == 1) {
+                arquivo = "_imagens/lampada-acesa.jpg";
+            }
+            if (tipo == 2){
+                arquivo = "_imagens/lampada-apagada.jpg";
+            }
+            if (tipo == 3){
+                arquivo = "_imagens/lampada-quebrada.jpg";
+            }
+            if (!quebrada){
+                if (tipo == 3){
+                    quebrada = true;
+                }
+                document.getElementById("luz").src = arquivo;
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Acenda a Lâmpada</h1>
+    <img src="_imagens/lampada-apagada.jpg" id="luz" onmousemove="muda(1)" onmouseout="muda(2)" onclick="muda(3)" ondblclick="conserta()"/>
+
+</body>
+</html>

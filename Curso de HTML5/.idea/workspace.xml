@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6de56ba2-a89d-49db-8394-aa20b26861e5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projeto-glass-html5/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1659">
+              <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="media.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/media.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="specs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projeto-glass-html5/specs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="36" column="16" selection-start-line="30" selection-end-line="36" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="multimidia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projeto-glass-html5/multimidia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="67" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="67" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fotos.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fotos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="50" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fale-conosco.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fale-conosco.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1554">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding>
+                <element signature="e#605#735#0" />
+                <element signature="e#763#844#0" />
+                <element signature="e#861#1317#0" />
+                <element signature="e#1337#1549#0" />
+                <element signature="e#1569#2007#0" />
+                <element signature="e#2009#2053#0" />
+                <element signature="e#2094#2138#0" />
+                <element signature="e#2146#2178#0" />
+                <element signature="e#2199#2281#0" />
+                <element signature="e#2305#2339#0" />
+                <element signature="e#2370#2596#0" />
+                <element signature="e#2718#2734#0" />
+                <element signature="e#2746#2769#0" />
+                <element signature="e#2779#2800#0" />
+                <element signature="e#2836#3203#0" />
+                <element signature="e#3213#3278#0" />
+                <element signature="e#3290#3356#0" />
+                <element signature="e#3368#3743#0" />
+                <element signature="e#3762#3792#0" />
+                <element signature="e#3803#3845#0" />
+                <element signature="e#3862#3909#0" />
+                <element signature="e#4032#4141#0" />
+                <element signature="e#4162#4283#0" />
+                <element signature="e#4304#4370#0" />
+                <element signature="e#4391#4412#0" />
+                <element signature="e#4420#4548#0" />
+                <element signature="e#4559#4606#0" />
+                <element signature="e#4616#4726#0" />
+                <element signature="e#4735#4785#0" />
+                <element signature="e#4800#4858#0" />
+                <element signature="e#4877#4965#0" />
+                <element signature="e#4973#5053#0" />
+                <element signature="e#5063#5087#0" />
+                <element signature="e#5097#5162#0" />
+                <element signature="e#5203#5358#0" />
+                <element signature="e#5370#5472#0" />
+                <element signature="e#5484#5565#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/form.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form_cadastro_usuario.html" pinned="false" current-in-tab="false">
+        <entry file="file://C:/xampp/htdocs/cadastro/form_cadastro_usuario.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="212" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="212" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/projeto-glass-html5/testejs01.html" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/_javascript/funcoes.js" />
+        <option value="$USER_HOME$/Desktop/form_cadastro_usuario.html" />
+        <option value="C:/xampp/htdocs/cadastro/form_cadastro_usuario.html" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/google-glass.html" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/_css/specs.css" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/fotos.html" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/_css/fotos.css" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/specs.html" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/index.html" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/multimidia.html" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/_css/media.css" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/_css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/_css/form.css" />
+        <option value="$PROJECT_DIR$/projeto-glass-html5/fale-conosco.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Curso de HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso de HTML5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Curso de HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso de HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="_media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Curso de HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso de HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="projeto-glass-html5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Curso de HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso de HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="projeto-glass-html5" type="462c0819:PsiDirectoryNode" />
+              <item name="_css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lojaxyz" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6de56ba2-a89d-49db-8394-aa20b26861e5" name="Default" comment="" />
+      <created>1524416740928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524416740928</updated>
+      <workItem from="1524416742100" duration="8673000" />
+      <workItem from="1524582417568" duration="9441000" />
+      <workItem from="1524608229133" duration="2065000" />
+      <workItem from="1524620822730" duration="10248000" />
+      <workItem from="1524692929883" duration="3348000" />
+      <workItem from="1524708190175" duration="3682000" />
+      <workItem from="1524768049035" duration="12309000" />
+      <workItem from="1524865198700" duration="2085000" />
+      <workItem from="1524888272735" duration="33859000" />
+      <workItem from="1525101984414" duration="2144000" />
+      <workItem from="1525283309298" duration="1836000" />
+      <workItem from="1525279264621" duration="10000" />
+      <workItem from="1525366042626" duration="4660000" />
+      <workItem from="1525448095981" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94994000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17773438" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17773438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fale-conosco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+          <folding>
+            <element signature="e#605#735#0" />
+            <element signature="e#763#844#0" />
+            <element signature="e#861#1317#0" />
+            <element signature="e#1337#1549#0" />
+            <element signature="e#1569#2007#0" />
+            <element signature="e#2009#2053#0" />
+            <element signature="e#2094#2138#0" />
+            <element signature="e#2146#2178#0" />
+            <element signature="e#2199#2281#0" />
+            <element signature="e#2305#2339#0" />
+            <element signature="e#2370#2596#0" />
+            <element signature="e#2718#2734#0" />
+            <element signature="e#2746#2769#0" />
+            <element signature="e#2779#2800#0" />
+            <element signature="e#2836#3203#0" />
+            <element signature="e#3213#3278#0" />
+            <element signature="e#3290#3356#0" />
+            <element signature="e#3368#3743#0" />
+            <element signature="e#3762#3792#0" />
+            <element signature="e#3803#3845#0" />
+            <element signature="e#3862#3909#0" />
+            <element signature="e#4032#4141#0" />
+            <element signature="e#4162#4283#0" />
+            <element signature="e#4304#4370#0" />
+            <element signature="e#4391#4412#0" />
+            <element signature="e#4420#4548#0" />
+            <element signature="e#4559#4606#0" />
+            <element signature="e#4616#4726#0" />
+            <element signature="e#4735#4785#0" />
+            <element signature="e#4800#4858#0" />
+            <element signature="e#4877#4965#0" />
+            <element signature="e#4973#5053#0" />
+            <element signature="e#5063#5087#0" />
+            <element signature="e#5097#5162#0" />
+            <element signature="e#5203#5358#0" />
+            <element signature="e#5370#5472#0" />
+            <element signature="e#5484#5565#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/cadastro/form_cadastro_usuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/specs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="85" selection-start-line="43" selection-start-column="85" selection-end-line="43" selection-end-column="85" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/specs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/google-glass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/multimidia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fotos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fale-conosco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="e#605#735#0" />
+            <element signature="e#763#844#0" />
+            <element signature="e#861#1317#0" />
+            <element signature="e#1337#1549#0" />
+            <element signature="e#1569#2007#0" />
+            <element signature="e#2009#2053#0" />
+            <element signature="e#2094#2138#0" />
+            <element signature="e#2146#2178#0" />
+            <element signature="e#2199#2281#0" />
+            <element signature="e#2305#2339#0" />
+            <element signature="e#2370#2596#0" />
+            <element signature="e#2718#2734#0" />
+            <element signature="e#2746#2769#0" />
+            <element signature="e#2779#2800#0" />
+            <element signature="e#2836#3203#0" />
+            <element signature="e#3213#3278#0" />
+            <element signature="e#3290#3356#0" />
+            <element signature="e#3368#3743#0" />
+            <element signature="e#3762#3792#0" />
+            <element signature="e#3803#3845#0" />
+            <element signature="e#3862#3909#0" />
+            <element signature="e#4032#4141#0" />
+            <element signature="e#4162#4283#0" />
+            <element signature="e#4304#4370#0" />
+            <element signature="e#4391#4412#0" />
+            <element signature="e#4420#4548#0" />
+            <element signature="e#4559#4606#0" />
+            <element signature="e#4616#4726#0" />
+            <element signature="e#4735#4785#0" />
+            <element signature="e#4800#4858#0" />
+            <element signature="e#4877#4965#0" />
+            <element signature="e#4973#5053#0" />
+            <element signature="e#5063#5087#0" />
+            <element signature="e#5097#5162#0" />
+            <element signature="e#5203#5358#0" />
+            <element signature="e#5370#5472#0" />
+            <element signature="e#5484#5565#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/cadastro/form_cadastro_usuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/specs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/google-glass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/multimidia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fotos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fale-conosco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="e#605#735#0" />
+            <element signature="e#763#844#0" />
+            <element signature="e#861#1317#0" />
+            <element signature="e#1337#1549#0" />
+            <element signature="e#1569#2007#0" />
+            <element signature="e#2009#2053#0" />
+            <element signature="e#2094#2138#0" />
+            <element signature="e#2146#2178#0" />
+            <element signature="e#2199#2281#0" />
+            <element signature="e#2305#2339#0" />
+            <element signature="e#2370#2596#0" />
+            <element signature="e#2718#2734#0" />
+            <element signature="e#2746#2769#0" />
+            <element signature="e#2779#2800#0" />
+            <element signature="e#2836#3203#0" />
+            <element signature="e#3213#3278#0" />
+            <element signature="e#3290#3356#0" />
+            <element signature="e#3368#3743#0" />
+            <element signature="e#3762#3792#0" />
+            <element signature="e#3803#3845#0" />
+            <element signature="e#3862#3909#0" />
+            <element signature="e#4032#4141#0" />
+            <element signature="e#4162#4283#0" />
+            <element signature="e#4304#4370#0" />
+            <element signature="e#4391#4412#0" />
+            <element signature="e#4420#4548#0" />
+            <element signature="e#4559#4606#0" />
+            <element signature="e#4616#4726#0" />
+            <element signature="e#4735#4785#0" />
+            <element signature="e#4800#4858#0" />
+            <element signature="e#4877#4965#0" />
+            <element signature="e#4973#5053#0" />
+            <element signature="e#5063#5087#0" />
+            <element signature="e#5097#5162#0" />
+            <element signature="e#5203#5358#0" />
+            <element signature="e#5370#5472#0" />
+            <element signature="e#5484#5565#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/cadastro/form_cadastro_usuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/specs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/google-glass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/multimidia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fotos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fale-conosco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="e#605#735#0" />
+            <element signature="e#763#844#0" />
+            <element signature="e#861#1317#0" />
+            <element signature="e#1337#1549#0" />
+            <element signature="e#1569#2007#0" />
+            <element signature="e#2009#2053#0" />
+            <element signature="e#2094#2138#0" />
+            <element signature="e#2146#2178#0" />
+            <element signature="e#2199#2281#0" />
+            <element signature="e#2305#2339#0" />
+            <element signature="e#2370#2596#0" />
+            <element signature="e#2718#2734#0" />
+            <element signature="e#2746#2769#0" />
+            <element signature="e#2779#2800#0" />
+            <element signature="e#2836#3203#0" />
+            <element signature="e#3213#3278#0" />
+            <element signature="e#3290#3356#0" />
+            <element signature="e#3368#3743#0" />
+            <element signature="e#3762#3792#0" />
+            <element signature="e#3803#3845#0" />
+            <element signature="e#3862#3909#0" />
+            <element signature="e#4032#4141#0" />
+            <element signature="e#4162#4283#0" />
+            <element signature="e#4304#4370#0" />
+            <element signature="e#4391#4412#0" />
+            <element signature="e#4420#4548#0" />
+            <element signature="e#4559#4606#0" />
+            <element signature="e#4616#4726#0" />
+            <element signature="e#4735#4785#0" />
+            <element signature="e#4800#4858#0" />
+            <element signature="e#4877#4965#0" />
+            <element signature="e#4973#5053#0" />
+            <element signature="e#5063#5087#0" />
+            <element signature="e#5097#5162#0" />
+            <element signature="e#5203#5358#0" />
+            <element signature="e#5370#5472#0" />
+            <element signature="e#5484#5565#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1239">
+          <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="e#605#735#0" />
+            <element signature="e#763#844#0" />
+            <element signature="e#861#1317#0" />
+            <element signature="e#1337#1549#0" />
+            <element signature="e#1569#2007#0" />
+            <element signature="e#2009#2053#0" />
+            <element signature="e#2094#2138#0" />
+            <element signature="e#2146#2178#0" />
+            <element signature="e#2199#2281#0" />
+            <element signature="e#2305#2339#0" />
+            <element signature="e#2370#2596#0" />
+            <element signature="e#2718#2734#0" />
+            <element signature="e#2746#2769#0" />
+            <element signature="e#2779#2800#0" />
+            <element signature="e#2836#3203#0" />
+            <element signature="e#3213#3278#0" />
+            <element signature="e#3290#3356#0" />
+            <element signature="e#3368#3743#0" />
+            <element signature="e#3762#3792#0" />
+            <element signature="e#3803#3845#0" />
+            <element signature="e#3862#3909#0" />
+            <element signature="e#4032#4141#0" />
+            <element signature="e#4162#4283#0" />
+            <element signature="e#4304#4370#0" />
+            <element signature="e#4391#4412#0" />
+            <element signature="e#4420#4548#0" />
+            <element signature="e#4559#4606#0" />
+            <element signature="e#4616#4726#0" />
+            <element signature="e#4735#4785#0" />
+            <element signature="e#4800#4858#0" />
+            <element signature="e#4877#4965#0" />
+            <element signature="e#4973#5053#0" />
+            <element signature="e#5063#5087#0" />
+            <element signature="e#5097#5162#0" />
+            <element signature="e#5203#5358#0" />
+            <element signature="e#5370#5472#0" />
+            <element signature="e#5484#5565#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/testejs01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4686">
+          <caret line="213" column="17" selection-start-line="213" selection-start-column="17" selection-end-line="213" selection-end-column="17" />
+          <folding>
+            <element signature="e#605#735#0" />
+            <element signature="e#763#844#0" />
+            <element signature="e#861#1317#0" />
+            <element signature="e#1337#1549#0" />
+            <element signature="e#1569#2007#0" />
+            <element signature="e#2009#2053#0" />
+            <element signature="e#2094#2138#0" />
+            <element signature="e#2146#2178#0" />
+            <element signature="e#2199#2281#0" />
+            <element signature="e#2305#2339#0" />
+            <element signature="e#2370#2596#0" />
+            <element signature="e#2718#2734#0" />
+            <element signature="e#2746#2769#0" />
+            <element signature="e#2779#2800#0" />
+            <element signature="e#2836#3203#0" />
+            <element signature="e#3213#3278#0" />
+            <element signature="e#3290#3356#0" />
+            <element signature="e#3368#3743#0" />
+            <element signature="e#3762#3792#0" />
+            <element signature="e#3803#3845#0" />
+            <element signature="e#3862#3909#0" />
+            <element signature="e#4032#4141#0" />
+            <element signature="e#4162#4283#0" />
+            <element signature="e#4304#4370#0" />
+            <element signature="e#4391#4412#0" />
+            <element signature="e#4420#4548#0" />
+            <element signature="e#4559#4606#0" />
+            <element signature="e#4616#4726#0" />
+            <element signature="e#4735#4785#0" />
+            <element signature="e#4800#4858#0" />
+            <element signature="e#4877#4965#0" />
+            <element signature="e#4973#5053#0" />
+            <element signature="e#5063#5087#0" />
+            <element signature="e#5097#5162#0" />
+            <element signature="e#5203#5358#0" />
+            <element signature="e#5370#5472#0" />
+            <element signature="e#5484#5565#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/testejs01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="61" lean-forward="true" selection-start-line="39" selection-start-column="61" selection-end-line="39" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="96" lean-forward="true" selection-start-line="53" selection-start-column="96" selection-end-line="53" selection-end-column="96" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3476">
+          <caret line="158" column="18" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/testejs01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="33" column="58" lean-forward="true" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/form_cadastro_usuario.html" />
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/google-glass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_javascript/funcoes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/fotos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/specs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/specs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="16" selection-start-line="30" selection-end-line="36" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fotos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/multimidia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#hgroup#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#article#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#aside#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#605#735#0" />
+            <element signature="e#763#844#0" />
+            <element signature="e#861#1317#0" />
+            <element signature="e#1337#1549#0" />
+            <element signature="e#1569#2007#0" />
+            <element signature="e#2009#2053#0" />
+            <element signature="e#2094#2138#0" />
+            <element signature="e#2146#2178#0" />
+            <element signature="e#2199#2281#0" />
+            <element signature="e#2305#2339#0" />
+            <element signature="e#2370#2596#0" />
+            <element signature="e#2718#2734#0" />
+            <element signature="e#2746#2769#0" />
+            <element signature="e#2779#2800#0" />
+            <element signature="e#2836#3203#0" />
+            <element signature="e#3213#3278#0" />
+            <element signature="e#3290#3356#0" />
+            <element signature="e#3368#3743#0" />
+            <element signature="e#3762#3792#0" />
+            <element signature="e#3803#3845#0" />
+            <element signature="e#3862#3909#0" />
+            <element signature="e#4032#4141#0" />
+            <element signature="e#4162#4283#0" />
+            <element signature="e#4304#4370#0" />
+            <element signature="e#4391#4412#0" />
+            <element signature="e#4420#4548#0" />
+            <element signature="e#4559#4606#0" />
+            <element signature="e#4616#4726#0" />
+            <element signature="e#4735#4785#0" />
+            <element signature="e#4800#4858#0" />
+            <element signature="e#4877#4965#0" />
+            <element signature="e#4973#5053#0" />
+            <element signature="e#5063#5087#0" />
+            <element signature="e#5097#5162#0" />
+            <element signature="e#5203#5358#0" />
+            <element signature="e#5370#5472#0" />
+            <element signature="e#5484#5565#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/cadastro/form_cadastro_usuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="212" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="212" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/_css/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto-glass-html5/fale-conosco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1554">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

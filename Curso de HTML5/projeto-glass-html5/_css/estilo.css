@@ -1,0 +1,221 @@
+/*Folha de estilo*/
+@charset "UTF-8";
+                                               /*Nessa linha aqui também poderia colar o link direto, fornecido pelo Google Chrome (Google.com/fonts), e lá no chrome tbm tem o link pra CSS(onde quiser alterar a fonte, é só colar o link) */
+@font-face { /*Aula 17 - Fontes Personalizadas*/
+	font-family: 'fontepersonalizada'; /*Nome qualquer para a fonte*/
+	src: url("../_fonts/Arvo-Regular.ttf"); /*Colocar a fonte, dizendo a pasta e o nome do arquivo*/
+}
+body{
+		font-family: Arial,sans-serif;
+		background-color:darkgrey;
+		color: rgba(0,0,0,1.00);
+	}
+div#interface{
+	width: 950px;
+	background-color: white;
+	margin: -20px auto 10px auto;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	padding: 10px;
+}
+header#cabecalho img#icone { /*Posicionamento da imagem*/
+	position: absolute;
+	left: 1060px; 
+	top: 70px;
+}
+header#cabecalho{ /*Configuração do Cabeçalho - Aula 16*/
+	border-bottom: 2px #606060 solid; /* Colocar uma linha de divisão entre o cabeçalho e o resto da página*/
+	height: 150px; /*Tamanho do cabeçalho*/
+	background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0 80px; /*Background - é usada para colocar uma imagem dentro do cabeçalho. Imagem que esteja em pasta diferente ao do arquivo, começa com 2 pontos e depois, usa o (_) para colocar a imagem Ex: ("../_)*/
+}
+header#cabecalho h1{
+	margin-bottom: 0; /*Diminuir o espaço entre o títilo e o subtítulo*/
+	font-family: 'fontepersonalizada', sans-serif;
+	font-size: 30pt;
+	color: #606060;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+	padding: 0;
+}
+header#cabecalho h2{
+	margin-top: 0; /*Mesma apicação para o h1 (margin-top = tira o espaço do subtítulo para o título) */
+	font-family: 'fontepersonalizada', sans-serif; /*Podendo substituir uma fonte do programa, para uma personalizada, colando o nome da fonte dada no começo do arquivo (@font-face) entre aspas simples. (' ')*/
+	font-size: 15pt;
+	color: #888883;
+	padding: 0; /*Padding = espaço interno (dentro do container) ; Margin = espaço externo*/
+}
+p{
+text-align: justify;
+text-indent: 10px;
+ }
+/*Formatação de imagens com legendas*/
+a{
+	text-decoration: none;
+	color: #606060;
+}
+a:hover{
+	text-decoration: underline;
+}
+figure.foto-legenda {
+	border: 5px solid white;
+	box-shadow: 1px 1px 4px black;
+	position: relative;
+}
+figure.foto-legenda img{
+	
+	width: 100%;
+	height: 100%;
+}
+figure.foto-legenda figcaption{
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	background-color: rgba(0,0,0,0.4);
+	color: white;
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+	transition: 2s;
+	text-align: justify;
+	text-indent: 20px;
+}
+/* Formatação para que a legenda só apareça quando passar o mouse por cima da foto*/
+figure.foto-legenda:hover figcaption{
+	opacity: 1;
+}
+p.paragrafo{
+	text-indent: 20px;
+}
+h4.titulo{
+	font-size: 30px;
+}
+/* Formatação do Menu*/
+nav#menu ul{
+	list-style: none; /* desaparecer as demarcações */
+	text-transform: uppercase; /* Letras todas maiúsculas do menu */
+	position: absolute;/* Podendo ficar em qualquer lugar do site*/
+	top: -20px; /* Margem entre a barra de pesquisa e o site, para diminuir a margem usa-se (- nº qualquer)*/
+	left: 600px; /* Mover para os lados, ajustar o posicionamento do menu */
+}
+nav#menu {
+	display: block; /* Fazer o menu flutuar dentro da tela (1)*/
+}
+nav#menu h1{
+	display: none; /* Fazer com que o título do menu desapareça*/
+}
+nav#menu li{
+	display: inline-block; /* Fazer com que o menu seja exibido na mesma linha */
+	background-color: darkgrey; /* cor no fundo da caixa de cada item do menu (palavra)*/
+	padding: 10px; /* Dar espaço dentro da caixa de cada item do menu (distância entre a cor e a letra)*/
+	margin: 2px; /* Espaço entre cada item do menu (tipo espaçamento)*/
+	transition: background-color 1s;
+}
+nav#menu li:hover {
+background-color: #606060;
+}
+nav#menu a{
+	color: black;
+	text-decoration: none;
+}
+nav#menu a:hover{
+	color: white;
+	text-decoration: underline;
+}
+.corpo{
+	width: 500px;
+	display: block;
+	float: left;
+	border-right: 1px solid #606060;
+	padding-right: 20px;
+}
+.artigo h2{
+	font-size: 13pt;
+	background-color: #dddddd;
+	color: #606060;
+	padding: 5px 0 5px 10px;
+	margin: 10px 0;
+}
+.cabecalho-artigo h1{
+	font-family: 'fontepersonalizada', sans-serif;
+	font-size: 20pt;
+	color: #606060;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+.cabecalho-artigo h2{
+	font-size: 13pt;
+	color: #cecece;
+	background-color: #ffffff;
+}
+.cabecalho-artigo h3{
+	font-size: 12pt;
+}
+.tabela{
+	border: 1px #606060 solid;
+	border-spacing: 0; /*Espaço entre as linhas da borda*/
+	margin-left: auto;
+	margin-right: auto;
+}
+.tabela td{
+	border: 1px #606060 solid;
+	padding: 10px;
+}
+.esquerda{
+	text-align: right;
+	vertical-align: top;
+	color: #ffffff;
+	background-color: #606060;
+	font-weight: bold;
+}
+.direita{
+	text-align: left;
+	background-color: #d6d7d5;
+}
+
+table caption{
+	font-weight: bold;
+	font-size: 15pt;
+	color: #888883;
+}
+table caption span{
+	display: block;
+	float: right;
+	color: #000000;
+	font-size: 8pt;
+	margin-top: 10px;
+}
+.rodape{
+	clear: both; /*Clear= limpar; both= ambos*/
+	border-top: 1px solid #606060;
+}
+.rodape p{
+	text-align: center;
+}
+.rodape a{
+	list-style: none;
+	text-transform: uppercase;
+	padding: 2px;
+}
+.rodape a:hover{
+	opacity: 1;
+}
+.lateral{
+	width: 400px;
+	display: block;
+	float: right;
+	background-color: #dddddd;
+	padding: 10px;
+	margin-top: 10px;
+	box-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+}
+.lateral h1{
+	font-family: 'fontepersonalizada', sans-serif;
+	color: #606060;
+	font-size: 20pt;
+	margin-top: 0;
+}
+.lateral h2{
+	background-color: #606060;
+	color: #ffffff;
+	font-size: 13pt;
+	padding: 5px;
+}

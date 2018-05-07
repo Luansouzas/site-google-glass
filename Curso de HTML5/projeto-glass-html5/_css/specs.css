@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.conteudo{
+    width: 1000px;
+    margin: auto;
+}
+.frame-specs{
+    width: 407px;
+    height: 285px;
+    border: none;
+    overflow: hidden; /*evita a rolagem do mouse em um determinada parte da página, mas não funciona em todos os navegadores*/
+
+}
+/*.frame-specs::-webkit-scrollbar{ /*esconde as barras de rolagem, na lateral*/
+    /*display: ;*/
